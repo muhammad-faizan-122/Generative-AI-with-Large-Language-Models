@@ -1,1 +1,1 @@
-The full course can be accessed (here)[https://www.coursera.org/learn/generative-ai-with-llms/].
+The full course can be accessed [here](https://www.coursera.org/learn/generative-ai-with-llms/).
